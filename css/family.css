@@ -1,0 +1,25 @@
+a:hover {
+    text-decoration: underline;
+}
+
+.bg-image {
+    background-image: url("../img/slide-1.jpg");
+    background-color: #000000;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+} 
+
+.bg-shadow {
+    background-color: rgba(31, 0, 31, 0.5);
+}
+
+.bg-image-2 {
+    background-image: url("../img/slide-2.jpg");
+    background-color: #000000;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+} 
